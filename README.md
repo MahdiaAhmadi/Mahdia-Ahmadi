@@ -1,4 +1,4 @@
-![logo](https://i.pinimg.com/564x/5d/60/0a/5d600a5828884e1088d038df75f9a83e.jpg)
+
 <h1 align="center">Hi 👋, I'm Mahdia Ahmadi.</h1>
 <h3 align="center">passionate of IOT and Web development.</h3>
 
