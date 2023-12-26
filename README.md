@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mahdia Ahmadi</h1>
+![logo](https://i.pinimg.com/564x/5d/60/0a/5d600a5828884e1088d038df75f9a83e.jpg)
+<h1 align="center">Hi 👋, I'm Mahdia Ahmadi.</h1>
 <h3 align="center">passionate of IOT and Web development.</h3>
 
 <img align="right" alt="coding" width=400px src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 
-- 👯 I’m looking to collaborate on **web projects.**
+- 👯 I’m looking to collaborate on ** IOT and web projects.**
 
 - 📫 How to reach me **mahdiaahmadi345@gmail.com**
 
